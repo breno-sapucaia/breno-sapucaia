@@ -1,5 +1,8 @@
-### Hi there 👋
+### Chegaí, se aprochege 👋
 
+
+se você está aqui então deve ser um <i>programador</i>
+então segue ai algumas propriedades minhas.
 <!--
 **breno-sapucaia/breno-sapucaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -58,3 +61,11 @@ const brenoSapucaia = {
     architecture: ["Domain Driven Design", "SPA", "SinglePageApplications", "Microservices"],
 };
 ```
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-sapucaia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
