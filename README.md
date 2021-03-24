@@ -65,7 +65,7 @@ const brenoSapucaia = {
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?breno-sapucaia" frameborder="0"></iframe>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-sapucaia)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
