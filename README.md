@@ -65,7 +65,7 @@ const brenoSapucaia = {
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-sapucaia)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-sapucaia&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
