@@ -58,7 +58,7 @@ const brenoSapucaia = {
           docker: true;
         },
     },
-    architecture: ["Domain Driven Design", "SPA", "SinglePageApplications", "Microservices"],
+    architecture: ["Domain Driven Design", "SPA", "Microservices (learning)"],
 };
 ```
 
