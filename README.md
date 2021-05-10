@@ -26,7 +26,7 @@ const brenoSapucaia = {
       },
       former: {
         employee: true,
-        where: "edecoração"
+        where: "edecoração",
         doing: "FullStack Developer Jr | asp.net 4"
       }
     }
@@ -39,8 +39,8 @@ const brenoSapucaia = {
         },
         backEnd: {
             leanguages: [
-              "Javascript", 
-              "Typescript", 
+              "Typescript",               
+              "Javascript",
               "C#",
               "Java",
             ],
