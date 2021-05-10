@@ -32,8 +32,7 @@ const brenoSapucaia = {
     }
     technologies: {
         mobileApp: ["React Native"],
-        frontEnd: {
-            frameworks: [
+        frontEnd: [
               "ReactJs", 
               "VueJs"
             ]
@@ -46,11 +45,12 @@ const brenoSapucaia = {
               "Java",
             ],
             frameworks: [
-              ".net core 3",
-              "asp.net 4",
-              ".net 5",
-              "express",
-              "entityFramework",
+                ".net 5",
+                "asp.net 4",
+                ".net 5",
+                "express",
+                "entityFramework",
+              
         },
         infraestructure: {
           cloud: ["AWS", "Azure", "Heroku", "Vercel"],
@@ -61,11 +61,4 @@ const brenoSapucaia = {
     architecture: ["Domain Driven Design", "SPA", "Microservices (learning)"],
 };
 ```
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-sapucaia&hide=python)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
