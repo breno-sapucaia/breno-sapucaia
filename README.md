@@ -9,8 +9,8 @@ então segue ai algumas propriedades minhas.
 ```javscript
 const brenoSapucaia = {
     from:{
-      state:  ["Brazil"],
-      country:  ["São Paulo"]
+      state:  ["São Paulo"],
+      country:  ["Brazil"]
     }
     askMeAbout: [
       "devOps", 
