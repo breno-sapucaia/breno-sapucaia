@@ -47,7 +47,6 @@ const brenoSapucaia = {
             frameworks: [
                 ".net 5",
                 "asp.net 4",
-                ".net 5",
                 "express",
                 "entityFramework",
               
