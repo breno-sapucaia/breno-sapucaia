@@ -38,7 +38,7 @@ const brenoSapucaia = {
             ]
         },
         backEnd: {
-            leanguages: [
+            language: [
               "Typescript",               
               "Javascript",
               "C#",
