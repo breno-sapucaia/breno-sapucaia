@@ -2,7 +2,7 @@
 
 
 se você está aqui então deve ser um <i>programador</i>
-então segue ai algumas propriedades minhas.
+então segue ai algumas de minhas propriedades.
 <!--
 **breno-sapucaia/breno-sapucaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
