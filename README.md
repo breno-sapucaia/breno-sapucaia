@@ -27,7 +27,7 @@ const brenoSapucaia = {
       former: {
         employee: true,
         where: "edecoração",
-        doing: "FullStack Developer Jr | asp.net 4"
+        doing: "FullStack Developer Jr | asp.net 4 | ReactJS >= 17"
       }
     }
     technologies: {
