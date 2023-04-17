@@ -26,8 +26,8 @@ const brenoSapucaia = {
       },
       former: {
         employee: true,
-        where: "edecoração",
-        doing: "FullStack Developer Jr | asp.net 4 | ReactJS >= 17"
+        where: "Hotglue",
+        doing: "Software Engineer | REACT | NEXTJS | MUI | NODE | PYTHON | MONGODB | AWS"
       }
     }
     technologies: {
@@ -41,15 +41,22 @@ const brenoSapucaia = {
             language: [
               "Typescript",               
               "Javascript",
+              "Python",
               "C#",
               "Java",
             ],
             frameworks: [
+                "chalice",
+                "pydantic",
+                "Fastify",
+                "zod",
+                "swagger",
+                "typeorm",
+                "typegraphql",
+                "graphql",
+                "prism",
                 ".net 5",
-                "asp.net 4",
-                "express",
                 "entityFramework",
-              
         },
         infraestructure: {
           cloud: ["AWS", "Azure", "Heroku", "Vercel"],
